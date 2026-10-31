@@ -1,0 +1,52 @@
+# 🍥 Desafio: Classificador de Nível de Herói — Naruto Shippuden
+
+## 📌 Sobre o Projeto
+
+Este projeto foi desenvolvido como parte de um desafio de lógica de programação utilizando **JavaScript**, inspirado nos personagens do anime Naruto Shippuden.
+
+O objetivo é criar um classificador capaz de identificar o nível de cada herói de acordo com sua quantidade de experiência (XP).
+
+## 🎯 Objetivo
+
+Armazenar o nome dos personagens e seus respectivos pontos de experiência (XP), utilizando estruturas de programação para determinar automaticamente o nível de cada herói.
+
+## 🛠️ Tecnologias e Conceitos Utilizados
+
+- **JavaScript:** linguagem utilizada no desenvolvimento.
+- **Variáveis:** armazenamento dos nomes, XP e níveis dos personagens.
+- **Operadores:** comparação dos valores de experiência.
+- **Laços de repetição (`for`):** percorrer a lista de heróis.
+- **Estruturas condicionais (`if`, `else if`, `else`):** classificação dos níveis.
+- **Arrays:** organização dos dados dos personagens.
+- **Console.log():** exibição dos resultados.
+
+## 🏆 Classificação dos Heróis
+
+| Experiência (XP) | Nível |
+|---|---|
+| Menor que 1.000 | Ferro |
+| 1.000 até 2.000 | Bronze |
+| 2.001 até 5.000 | Prata |
+| 5.001 até 7.000 | Ouro |
+| 7.001 até 8.000 | Platina |
+| 8.001 até 9.000 | Ascendente |
+| 9.001 até 10.000 | Imortal |
+| Acima de 10.000 | Radiante |
+
+## ⚙️ Funcionamento
+
+O programa percorre uma lista de personagens, identifica a quantidade de XP de cada um e utiliza estruturas condicionais para determinar sua classificação.
+
+Ao final, apresenta uma mensagem personalizada no console:
+
+`O Herói de nome {nome} está no nível de {nivel}`
+
+## 💡 Conclusão
+
+A realização deste desafio proporcionou a oportunidade de colocar em prática os principais fundamentos da programação JavaScript, desenvolvendo o raciocínio lógico e a capacidade de organizar informações por meio de variáveis, operadores, estruturas condicionais e laços de repetição.
+
+O projeto utiliza o universo de Naruto Shippuden como inspiração para tornar o aprendizado de lógica de programação mais dinâmico, criativo e divertido.
+
+---
+
+**Desenvolvido com 💛 e JavaScript.**
